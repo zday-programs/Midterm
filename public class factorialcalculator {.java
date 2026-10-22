@@ -8,5 +8,6 @@ public class factorialcalculator {
         }
 
         System.out.println("Factorial of " + num + " is: " + factorial);
+        System.out.println("This program calculates the factorial of a predefined number.");
     }
 }
